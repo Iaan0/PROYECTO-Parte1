@@ -14,11 +14,11 @@
 
 3. **Unificación de fuentes**
    
-    A partir del relevamiento de Perplexity, se generó una [versión unificada](https://notebook.google.com/notebook/55f1b3f6-e121-473a-a4cd-e80c42c0ebed/preview) y organizada por año, separando Front End, Back End, comparativo de adopción y síntesis del cambio por IA. 
+    A partir del relevamiento de Perplexity, se generó una versión unificada y organizada por año [en NOTEBOOKLM](https://notebook.google.com/notebook/55f1b3f6-e121-473a-a4cd-e80c42c0ebed/preview), separando Front End, Back End, comparativo de adopción y síntesis del cambio por IA. 
 
-5. **Excel y Word**
+5. **Archivos Generados**
    
-    Con ese material se armaron dos entregables: `Herramientas_Comparativo_Adopcion.xlsx` y `Herramientas_Linea_de_tiempo.xlsx`  (línea de tiempo + comparativo de adopción) y `Cambios_desarrollo_con_IA.docx` (informe sobre los cambios en el flujo de trabajo por la incorporación de IA).
+    Con el material se armaron [archivos entregables:](https://drive.google.com/drive/folders/1bsIY_UsrlM7elnH6v8mdSjLxuebfQN7n?usp=drive_link)  `Herramientas_Comparativo_Adopcion.xlsx` (comparativo de adopción) y `Herramientas_Linea_de_tiempo.xlsx`  (línea de tiempo) y `Cambios_desarrollo_con_IA.docx` (informe sobre los cambios en el flujo de trabajo por la incorporación de IA).
 
 7. **Análisis**
    
@@ -26,15 +26,12 @@
 
 9. **Sitio web**
     
-     Con ese análisis como base, se generó `index.html`: un [sitio web](file:///C:/Users/iande/OneDrive/Documents/Tec%20Mktg/iFNTMO/index%20.html) , responsive, sin dependencias externas, con línea de tiempo, comparativa antes/ahora y conclusiones.
+     Con ese análisis como base, se generó `index.html`: un [sitio web](https://prd-parte1.netlify.app/), responsive, sin dependencias externas, con línea de tiempo, comparativa antes/ahora y conclusiones.
 
 
 11. **Publicación**
     
      El sitio se publicó en Netlify a partir de este repositorio de GitHub.
-
-    ---
-
 
 ## Herramientas utilizadas
 
