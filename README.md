@@ -2,7 +2,7 @@
 
  
 
- Cómo la Inteligencia Artificial pasó de ser un asistente puntual a operar como agente autónomo en el desarrollo de las herramientas de diseño Front End y Back End entre 2021 y 2026.  Por Gonzalez Alegre Ian de Jesús
+ Por Gonzalez Alegre Ian de Jesús
 
 ---
 
