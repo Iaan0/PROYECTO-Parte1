@@ -1,0 +1,43 @@
+# De sugerir código a operar como agente
+
+ 
+
+ Cómo la Inteligencia Artificial pasó de ser un asistente puntual a operar como agente autónomo en el desarrollo de las herramientas de diseño Front End y Back End entre 2021 y 2026.  Por Gonzalez Alegre Ian de Jesús
+
+---
+
+## Etapas del trabajo
+
+1. **Investigación**
+   
+   Relevamiento de la evolución de herramientas Front End y Back End 2021-2026, con fuentes citadas, incluyendo el rol de la IA como copiloto de desarrollo.
+
+3. **Unificación de fuentes**
+   
+    A partir del relevamiento de Perplexity, se generó una [versión unificada](https://notebook.google.com/notebook/55f1b3f6-e121-473a-a4cd-e80c42c0ebed/preview) y organizada por año, separando Front End, Back End, comparativo de adopción y síntesis del cambio por IA. 
+
+5. **Excel y Word**
+   
+    Con ese material se armaron dos entregables: `Herramientas_Comparativo_Adopcion.xlsx` y `Herramientas_Linea_de_tiempo.xlsx`  (línea de tiempo + comparativo de adopción) y `Cambios_desarrollo_con_IA.docx` (informe sobre los cambios en el flujo de trabajo por la incorporación de IA).
+
+7. **Análisis**
+   
+   Se cruzaron los  documentos para identificar las 3 tendencias principales, el punto de quiebre (2025, paso de asistente a agente) y una comparación antes/ahora del flujo de trabajo del desarrollador.
+
+9. **Sitio web**
+    
+     Con ese análisis como base, se generó `index.html`: un [sitio web](file:///C:/Users/iande/OneDrive/Documents/Tec%20Mktg/iFNTMO/index%20.html) , responsive, sin dependencias externas, con línea de tiempo, comparativa antes/ahora y conclusiones.
+
+
+11. **Publicación**
+    
+     El sitio se publicó en Netlify a partir de este repositorio de GitHub.
+
+    ---
+
+
+## Herramientas utilizadas
+
+Perplexity · NotebookLM · Claude · Netlify · GitHub
+
+
