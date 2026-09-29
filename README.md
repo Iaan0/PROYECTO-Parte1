@@ -18,7 +18,7 @@
 
 5. **Archivos Generados**
    
-    Con el material se armaron [archivos entregables:](https://drive.google.com/drive/folders/1bsIY_UsrlM7elnH6v8mdSjLxuebfQN7n?usp=drive_link)  `Herramientas_Comparativo_Adopcion.xlsx` (comparativo de adopción) y `Herramientas_Linea_de_tiempo.xlsx`  (línea de tiempo) y `Cambios_desarrollo_con_IA.docx` (informe sobre los cambios en el flujo de trabajo por la incorporación de IA).
+    Con el material se armaron [archivos entregables:](https://drive.google.com/drive/folders/1bsIY_UsrlM7elnH6v8mdSjLxuebfQN7n?usp=drive_link)  `Herramientas_Comparativo_Adopcion.xlsx` (comparativo de adopción) y `Herramientas_Linea_de_tiempo.xlsx`  (línea de tiempo) y `Cambios_desarrollo_con_IA.docx` (informe sobre los cambios en el flujo de trabajo por la incorporación de IA) que se encuentran disponibles para descargar desde el sitio web.
 
 7. **Análisis**
    
